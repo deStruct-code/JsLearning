@@ -1,2 +1,3 @@
-# JsLearning
-Features of JS, that every junior shoud know
+# Js Learning
+Features of JS, that every junior shoud know.
+
